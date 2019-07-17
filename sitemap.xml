@@ -4,19 +4,36 @@
   
   <url>
     <loc>http://peterlavalle.github.io/food/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://peterlavalle.github.io/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://peterlavalle.github.io/tags/hugo/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/post/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/tags/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/post/gohugo-tofc/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,18 +50,6 @@
   
   <url>
     <loc>http://peterlavalle.github.io/tags/pandoc/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://peterlavalle.github.io/post/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://peterlavalle.github.io/tags/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
