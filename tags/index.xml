@@ -102,15 +102,6 @@
     </item>
     
     <item>
-      <title>Git</title>
-      <link>http://peterlavalle.github.io/tags/git/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://peterlavalle.github.io/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GitHub</title>
       <link>http://peterlavalle.github.io/tags/github/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
@@ -152,6 +143,15 @@
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://peterlavalle.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>http://peterlavalle.github.io/tags/git/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/git/</guid>
       <description></description>
     </item>
     
