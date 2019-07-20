@@ -6,10 +6,73 @@
     <description>Recent content in Tags on Peter&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://peterlavalle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CUDA</title>
+      <link>http://peterlavalle.github.io/tags/cuda/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/cuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://peterlavalle.github.io/tags/docker/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HowTo</title>
+      <link>http://peterlavalle.github.io/tags/howto/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K620</title>
+      <link>http://peterlavalle.github.io/tags/k620/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/k620/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://peterlavalle.github.io/tags/linux/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>http://peterlavalle.github.io/tags/ubuntu/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nVidia</title>
+      <link>http://peterlavalle.github.io/tags/nvidia/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/nvidia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo</title>
@@ -102,6 +165,15 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>http://peterlavalle.github.io/tags/git/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GitHub</title>
       <link>http://peterlavalle.github.io/tags/github/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
@@ -129,29 +201,11 @@
     </item>
     
     <item>
-      <title>HowTo</title>
-      <link>http://peterlavalle.github.io/tags/howto/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://peterlavalle.github.io/tags/howto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bash</title>
       <link>http://peterlavalle.github.io/tags/bash/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://peterlavalle.github.io/tags/bash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>http://peterlavalle.github.io/tags/git/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://peterlavalle.github.io/tags/git/</guid>
       <description></description>
     </item>
     
@@ -215,15 +269,6 @@
       <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://peterlavalle.github.io/tags/pi0w/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>http://peterlavalle.github.io/tags/docker/</link>
-      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://peterlavalle.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
