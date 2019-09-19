@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Peter&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://peterlavalle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Idris</title>
+      <link>http://peterlavalle.github.io/tags/idris/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/idris/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CUDA</title>
@@ -165,6 +174,15 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>http://peterlavalle.github.io/tags/git/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterlavalle.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GitHub</title>
       <link>http://peterlavalle.github.io/tags/github/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
@@ -197,15 +215,6 @@
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://peterlavalle.github.io/tags/bash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>http://peterlavalle.github.io/tags/git/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://peterlavalle.github.io/tags/git/</guid>
       <description></description>
     </item>
     
@@ -372,7 +381,7 @@
     </item>
     
     <item>
-      <title>multi-threading</title>
+      <title>Multi-Threading</title>
       <link>http://peterlavalle.github.io/tags/multi-threading/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
