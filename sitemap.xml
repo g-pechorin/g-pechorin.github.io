@@ -3,6 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://peterlavalle.github.io/tags/openvpn/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/post/pi3-openvpn/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/tags/pi3/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/post/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/tags/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/tags/raspberry-pi/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://peterlavalle.github.io/tags/idris/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -11,24 +52,6 @@
   <url>
     <loc>http://peterlavalle.github.io/post/idris-monad-mine/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://peterlavalle.github.io/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://peterlavalle.github.io/post/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://peterlavalle.github.io/tags/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -159,6 +182,12 @@
   </url>
   
   <url>
+    <loc>http://peterlavalle.github.io/tags/git/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://peterlavalle.github.io/tags/github/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -188,13 +217,13 @@
   </url>
   
   <url>
-    <loc>http://peterlavalle.github.io/tags/git/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <loc>http://peterlavalle.github.io/tags/jenkins/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://peterlavalle.github.io/tags/jenkins/</loc>
+    <loc>http://peterlavalle.github.io/tags/mercurial/</loc>
     <lastmod>2018-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -202,12 +231,6 @@
   <url>
     <loc>http://peterlavalle.github.io/post/multibranch-mercurial-jenkins/</loc>
     <lastmod>2018-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://peterlavalle.github.io/tags/mercurial/</loc>
-    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -219,12 +242,6 @@
   <url>
     <loc>http://peterlavalle.github.io/post/aiy-voice-v1-reference/</loc>
     <lastmod>2018-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://peterlavalle.github.io/tags/pi3/</loc>
-    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -681,6 +698,10 @@
   <url>
     <loc>http://peterlavalle.github.io/kit-list/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterlavalle.github.io/40k8th-cheat/</loc>
   </url>
   
   <url>
