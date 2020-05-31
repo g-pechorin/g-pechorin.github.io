@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Peter&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peterlavalle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>40k</title>
+      <link>https://peterlavalle.github.io/tags/40k/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterlavalle.github.io/tags/40k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HobbyStreak</title>
+      <link>https://peterlavalle.github.io/tags/hobbystreak/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterlavalle.github.io/tags/hobbystreak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minipainting</title>
+      <link>https://peterlavalle.github.io/tags/minipainting/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterlavalle.github.io/tags/minipainting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Git</title>
@@ -255,7 +282,7 @@
     </item>
     
     <item>
-      <title>Mercurial</title>
+      <title>mercurial</title>
       <link>https://peterlavalle.github.io/tags/mercurial/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
