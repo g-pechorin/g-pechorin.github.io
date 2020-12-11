@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Peter&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peterlavalle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android</title>
+      <link>https://peterlavalle.github.io/tags/android/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterlavalle.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>https://peterlavalle.github.io/tags/scala/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterlavalle.github.io/tags/scala/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>WarHammer</title>
@@ -57,15 +75,6 @@
     </item>
     
     <item>
-      <title>Git</title>
-      <link>https://peterlavalle.github.io/tags/git/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://peterlavalle.github.io/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GitHub</title>
       <link>https://peterlavalle.github.io/tags/github/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
@@ -80,6 +89,15 @@
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://peterlavalle.github.io/tags/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://peterlavalle.github.io/tags/git/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterlavalle.github.io/tags/git/</guid>
       <description></description>
     </item>
     
@@ -251,15 +269,6 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://peterlavalle.github.io/tags/vbo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scala</title>
-      <link>https://peterlavalle.github.io/tags/scala/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://peterlavalle.github.io/tags/scala/</guid>
       <description></description>
     </item>
     
@@ -444,7 +453,7 @@
     </item>
     
     <item>
-      <title>Multi-Threading</title>
+      <title>multi-threading</title>
       <link>https://peterlavalle.github.io/tags/multi-threading/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
