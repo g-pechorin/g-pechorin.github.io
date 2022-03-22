@@ -997,6 +997,11 @@
   </url>
   
   <url>
+    <loc>https://peterlavalle.github.io/shelf.orks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://peterlavalle.github.io/categories/</loc>
     <priority>0</priority>
   </url>
