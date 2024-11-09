@@ -3,19 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://peterlavalle.github.io/tags/c&#43;&#43;/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://peterlavalle.github.io/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peterlavalle.github.io/post/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://peterlavalle.github.io/post/forgejo-actions/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peterlavalle.github.io/tags/c&#43;&#43;/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
